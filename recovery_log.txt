@@ -1,0 +1,67 @@
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Wednesday, 10 December 2025 14:58:21
+   Source : D:\SimulasiDrive_D\
+     Dest : C:\SimulasiDrive_C\
+
+    Files : *.*
+	    
+  Options : *.* /TEE /S /E /DCOPY:DA /COPY:DAT /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   0	D:\SimulasiDrive_D\
+	*EXTRA Dir        -1	C:\SimulasiDrive_C\backup\
+	                   2	D:\SimulasiDrive_D\Folder_1\
+	                   6	D:\SimulasiDrive_D\Folder_1\SubFolder_A\
+	                   6	D:\SimulasiDrive_D\Folder_1\SubFolder_B\
+	                   6	D:\SimulasiDrive_D\Folder_1\SubFolder_C\
+	                   0	D:\SimulasiDrive_D\Folder_10\
+	                   6	D:\SimulasiDrive_D\Folder_10\SubFolder_A\
+	                   5	D:\SimulasiDrive_D\Folder_10\SubFolder_B\
+	                   6	D:\SimulasiDrive_D\Folder_10\SubFolder_C\
+	                   2	D:\SimulasiDrive_D\Folder_2\
+	                   6	D:\SimulasiDrive_D\Folder_2\SubFolder_A\
+	                   6	D:\SimulasiDrive_D\Folder_2\SubFolder_B\
+	                   6	D:\SimulasiDrive_D\Folder_2\SubFolder_C\
+	                   2	D:\SimulasiDrive_D\Folder_3\
+	                   6	D:\SimulasiDrive_D\Folder_3\SubFolder_A\
+	                   6	D:\SimulasiDrive_D\Folder_3\SubFolder_B\
+	                   6	D:\SimulasiDrive_D\Folder_3\SubFolder_C\
+	                   2	D:\SimulasiDrive_D\Folder_4\
+	                   6	D:\SimulasiDrive_D\Folder_4\SubFolder_A\
+	                   6	D:\SimulasiDrive_D\Folder_4\SubFolder_B\
+	                   6	D:\SimulasiDrive_D\Folder_4\SubFolder_C\
+	                   2	D:\SimulasiDrive_D\Folder_5\
+	                   6	D:\SimulasiDrive_D\Folder_5\SubFolder_A\
+	                   6	D:\SimulasiDrive_D\Folder_5\SubFolder_B\
+	                   6	D:\SimulasiDrive_D\Folder_5\SubFolder_C\
+	                   2	D:\SimulasiDrive_D\Folder_6\
+	                   6	D:\SimulasiDrive_D\Folder_6\SubFolder_A\
+	                   6	D:\SimulasiDrive_D\Folder_6\SubFolder_B\
+	                   6	D:\SimulasiDrive_D\Folder_6\SubFolder_C\
+	                   2	D:\SimulasiDrive_D\Folder_7\
+	                   6	D:\SimulasiDrive_D\Folder_7\SubFolder_A\
+	                   6	D:\SimulasiDrive_D\Folder_7\SubFolder_B\
+	                   6	D:\SimulasiDrive_D\Folder_7\SubFolder_C\
+	                   2	D:\SimulasiDrive_D\Folder_8\
+	                   6	D:\SimulasiDrive_D\Folder_8\SubFolder_A\
+	                   6	D:\SimulasiDrive_D\Folder_8\SubFolder_B\
+	                   6	D:\SimulasiDrive_D\Folder_8\SubFolder_C\
+	                   2	D:\SimulasiDrive_D\Folder_9\
+	                   6	D:\SimulasiDrive_D\Folder_9\SubFolder_A\
+	                   6	D:\SimulasiDrive_D\Folder_9\SubFolder_B\
+	                   6	D:\SimulasiDrive_D\Folder_9\SubFolder_C\
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :        41         0        41         0         0         1
+   Files :       197         0       197         0         0         0
+   Bytes :     2.8 k         0     2.8 k         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+   Ended : Wednesday, 10 December 2025 14:58:22
+
